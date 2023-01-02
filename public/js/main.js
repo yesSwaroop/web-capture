@@ -15,7 +15,7 @@ var connected = false;
 var pcConfig = turnConfig;
 
 var localStreamConstraints = {
-    audio: true,
+    audio: false,
     video: true
   };
 
